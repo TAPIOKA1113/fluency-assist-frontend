@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 
